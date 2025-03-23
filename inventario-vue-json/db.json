@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "c9b2",
+      "nombre": "pene",
+      "precio": 222,
+      "stock": 10,
+      "disponible": true
+    },
+    {
+      "id": "4d59",
+      "nombre": "jahsj",
+      "precio": 22,
+      "stock": 24,
+      "disponible": true
+    },
+    {
+      "id": "0d3b",
+      "nombre": "ewqew",
+      "precio": 22,
+      "stock": 2222,
+      "disponible": true
+    },
+    {
+      "id": "229d",
+      "stock": 10,
+      "precio": 239,
+      "nombre": "kjsdafkjadws",
+      "disponible": true
+    },
+    {
+      "id": "3205",
+      "nombre": "gasfjagfsajgf",
+      "precio": 13,
+      "stock": 21,
+      "disponible": true
+    },
+    {
+      "id": "724d",
+      "nombre": "msdlnslkdf",
+      "precio": 22,
+      "stock": 12,
+      "disponible": true
+    }
+  ]
+}

@@ -41,6 +41,27 @@
       "precio": 22,
       "stock": 12,
       "disponible": true
+    },
+    {
+      "id": "e533",
+      "nombre": "ljsdlfks",
+      "precio": 100,
+      "stock": 200,
+      "disponible": true
+    },
+    {
+      "id": "5f3c",
+      "nombre": "jajaja",
+      "precio": 100,
+      "stock": 20,
+      "disponible": true
+    },
+    {
+      "id": "be1b",
+      "nombre": "jkefedf",
+      "precio": 100,
+      "stock": 10,
+      "disponible": true
     }
   ]
 }
